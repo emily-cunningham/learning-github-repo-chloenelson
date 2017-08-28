@@ -1,5 +1,7 @@
 Types of data I may encounter throughout my career as a pharmacist:
 Drug Prices
-Patient Information
+Patient Contact Information
 Names of drugs
 Strengths of drugs
+NDC
+DEA codes
