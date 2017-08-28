@@ -5,3 +5,7 @@ Names of drugs
 Strengths of drugs
 NDC
 DEA codes
+Lab Test Results
+Outcomes
+Prescriber Records
+Insurance Claim Information
