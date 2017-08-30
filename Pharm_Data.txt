@@ -9,3 +9,7 @@ Lab Test Results
 Outcomes
 Prescriber Records
 Insurance Claim Information
+
+Suggestions:
+Pharmacy Inventory and pricing
+Insurance copay tiers
